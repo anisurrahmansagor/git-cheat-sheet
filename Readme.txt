@@ -1,6 +1,5 @@
 Thanks for downloading this template!
 
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: Hishabboi Voucher
+Template URL: https://hishabboi.com
+Author: https://hishabboi.com
