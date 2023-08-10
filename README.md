@@ -256,10 +256,18 @@
                 <td>git reset --hard HEAD~1</td>
                 <td>Remove last commit from local</td>
                 <td>Remove last commit</td>
-            </tr><tr role="row" class="even">
+            </tr>
+            <tr role="row" class="even">
                 <td class="sorting_1">50</td>
                 <td>git push -f origin master</td>
                 <td>Push change to remote</td>
                 <td>Push to remove</td>
-            </tr></tbody>
+            </tr>
+            <tr role="row" class="even">
+                <td class="sorting_1">51</td>
+                <td>git checkout <commit_id></td>
+                <td>The git checkout command in Git is used to switch between different branches or commits</td>
+                <td>Switch between different commits</td>
+            </tr>
+        </tbody>
         </table>
