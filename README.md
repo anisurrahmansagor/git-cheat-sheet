@@ -268,6 +268,12 @@
                 <td>git checkout <commit_id></td>
                 <td>The git checkout command in Git is used to switch between different branches or commits</td>
                 <td>Switch between different commits</td>
+            </tr>        
+            <tr role="row" class="even">
+                <td class="sorting_1">52</td>
+                <td>git diff file1.txt</td>
+                <td>To see the actual changes made to the modified files</td>
+                <td>See changes to modified non committed file</td>
             </tr>
         </tbody>
         </table>
