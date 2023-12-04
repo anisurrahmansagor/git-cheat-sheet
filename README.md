@@ -239,7 +239,7 @@
             </tr><tr role="row" class="even">
                 <td class="sorting_1">46</td>
                 <td>git reset --soft HEAD</td>
-                <td>Delete commit and save changes</td>
+                <td>Delete commit and save changes, It will keep changes and keep the changes on stage</td>
                 <td>code, last, commit, change</td>
             </tr><tr id="bottom" role="row" class="odd">
                 <td class="sorting_1">47</td>
@@ -254,7 +254,7 @@
             </tr><tr role="row" class="odd">
                 <td class="sorting_1">49</td>
                 <td>git reset --hard HEAD~1</td>
-                <td>Remove last commit from local</td>
+                <td>Remove last commit from local, it will delete all changes</td>
                 <td>Remove last commit</td>
             </tr>
             <tr role="row" class="even">
