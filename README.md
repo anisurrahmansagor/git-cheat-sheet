@@ -260,7 +260,7 @@
             <tr role="row" class="even">
                 <td class="sorting_1">50</td>
                 <td>git push -f origin master</td>
-                <td>Push change to remote</td>
+                <td>Forcefully Push change to remote</td>
                 <td>Push to remove</td>
             </tr>
             <tr role="row" class="even">
