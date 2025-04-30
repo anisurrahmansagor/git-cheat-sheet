@@ -244,7 +244,7 @@
             </tr><tr id="bottom" role="row" class="odd">
                 <td class="sorting_1">47</td>
                 <td>git rm --cached filename</td>
-                <td>Remove specific file from git cache</td>
+                <td>Remove specific file from git cache and if you can add that file in gitignore if want. (Tracked file cannot be add to gitignore without clear the cache)</td>
                 <td>cache, remove, git, fixed,file</td>
             </tr><tr role="row" class="even">
                 <td class="sorting_1">48</td>
@@ -274,6 +274,18 @@
                 <td>git diff file1.txt</td>
                 <td>To see the actual changes made to the modified files</td>
                 <td>See changes to modified non committed file</td>
+            </tr>
+            <tr role="row" class="even">
+                <td class="sorting_1">53</td>
+                <td>git show <commit-hash></td>
+                <td>To view the all releted files from the commits</td>
+                <td>See which files are related to commit hash</td>
+            </tr>
+            <tr role="row" class="even">
+                <td class="sorting_1">54</td>
+                <td>git show --name-only --pretty="" <commit-hash> <commit-hash> <commit-hash> ...</td>
+                <td>The git show command in Git is used to display detailed information about a specific commit, including the commit message, author, date, and the changes made in that commit</td>
+                <td>It can also be used to show the content of a file or the differences (diff) introduced by a commit.</td>
             </tr>
         </tbody>
         </table>
