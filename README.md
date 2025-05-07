@@ -286,6 +286,11 @@
                 <td>git show --name-only --pretty="" <commit-hash> <commit-hash> <commit-hash> ...</td>
                 <td>The git show command in Git is used to display detailed information about a specific commit, including the commit message, author, date, and the changes made in that commit</td>
                 <td>It can also be used to show the content of a file or the differences (diff) introduced by a commit.</td>
+            </tr><tr role="row" class="even">
+                <td class="sorting_1">55</td>
+                <td>git fetch + git rebase OR git pull --rebase do the same thing</td>
+                <td>It rebases the current branch onto the latest changes from the remote branch</td>
+                <td>If it shows conflicts then we can apply git rebase --abort && git pull</td>
             </tr>
         </tbody>
         </table>
